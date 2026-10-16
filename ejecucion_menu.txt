@@ -1,0 +1,93 @@
+
+===== TRANSPORTE UNIVERSITARIO =====
+1. Registrar un trufi
+2. Registrar un minibús
+3. Registrar un radiotaxi
+4. Mostrar los vehículos registrados
+5. Calcular el costo operativo de cada vehículo
+6. Calcular el costo operativo total
+7. Salir
+
+Seleccione una opción: Código: Marca: Capacidad de pasajeros: Kilometraje recorrido: Número de rutas: Costo por km (Bs):   Trufi registrado correctamente.
+
+===== TRANSPORTE UNIVERSITARIO =====
+1. Registrar un trufi
+2. Registrar un minibús
+3. Registrar un radiotaxi
+4. Mostrar los vehículos registrados
+5. Calcular el costo operativo de cada vehículo
+6. Calcular el costo operativo total
+7. Salir
+
+Seleccione una opción: Código: Marca: Capacidad de pasajeros: Kilometraje recorrido: Número de viajes: Costo por km (Bs):   Minibús registrado correctamente.
+
+===== TRANSPORTE UNIVERSITARIO =====
+1. Registrar un trufi
+2. Registrar un minibús
+3. Registrar un radiotaxi
+4. Mostrar los vehículos registrados
+5. Calcular el costo operativo de cada vehículo
+6. Calcular el costo operativo total
+7. Salir
+
+Seleccione una opción: Código: Marca: Capacidad de pasajeros: Kilometraje recorrido: Área asignada: Costo por km (Bs):   Radiotaxi registrado correctamente.
+
+===== TRANSPORTE UNIVERSITARIO =====
+1. Registrar un trufi
+2. Registrar un minibús
+3. Registrar un radiotaxi
+4. Mostrar los vehículos registrados
+5. Calcular el costo operativo de cada vehículo
+6. Calcular el costo operativo total
+7. Salir
+
+Seleccione una opción:   [Trufi] Código: T-01 | Marca: Toyota | Capacidad: 15 pasajeros | Kilometraje: 100.0 km | Rutas: 3 | Costo/km: Bs 2.50
+  [Minibús] Código: M-01 | Marca: Nissan | Capacidad: 25 pasajeros | Kilometraje: 200.0 km | Viajes: 4 | Costo/km: Bs 3.00
+  [Radiotaxi] Código: R-01 | Marca: Suzuki | Capacidad: 4 pasajeros | Kilometraje: 50.0 km | Área: Zona Sur | Costo/km: Bs 4.00
+
+===== TRANSPORTE UNIVERSITARIO =====
+1. Registrar un trufi
+2. Registrar un minibús
+3. Registrar un radiotaxi
+4. Mostrar los vehículos registrados
+5. Calcular el costo operativo de cada vehículo
+6. Calcular el costo operativo total
+7. Salir
+
+Seleccione una opción:   T-01 (Trufi): Bs 250.00
+  M-01 (Minibus): Bs 600.00
+  R-01 (Radiotaxi): Bs 200.00
+
+===== TRANSPORTE UNIVERSITARIO =====
+1. Registrar un trufi
+2. Registrar un minibús
+3. Registrar un radiotaxi
+4. Mostrar los vehículos registrados
+5. Calcular el costo operativo de cada vehículo
+6. Calcular el costo operativo total
+7. Salir
+
+Seleccione una opción:   Costo operativo total: Bs 1050.00
+
+===== TRANSPORTE UNIVERSITARIO =====
+1. Registrar un trufi
+2. Registrar un minibús
+3. Registrar un radiotaxi
+4. Mostrar los vehículos registrados
+5. Calcular el costo operativo de cada vehículo
+6. Calcular el costo operativo total
+7. Salir
+
+Seleccione una opción: Código: Marca: Capacidad de pasajeros: Kilometraje recorrido:   Error: el sistema rechaza el dato (valor negativo o no válido).
+Kilometraje recorrido: Número de rutas: Costo por km (Bs):   Trufi registrado correctamente.
+
+===== TRANSPORTE UNIVERSITARIO =====
+1. Registrar un trufi
+2. Registrar un minibús
+3. Registrar un radiotaxi
+4. Mostrar los vehículos registrados
+5. Calcular el costo operativo de cada vehículo
+6. Calcular el costo operativo total
+7. Salir
+
+Seleccione una opción: Hasta luego.

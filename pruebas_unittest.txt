@@ -1,0 +1,15 @@
+test_clase_base_abstracta (test_vehiculos.PruebasTransporte.test_clase_base_abstracta) ... ok
+test_costo_total (test_vehiculos.PruebasTransporte.test_costo_total) ... ok
+test_herencia (test_vehiculos.PruebasTransporte.test_herencia) ... ok
+test_polimorfismo (test_vehiculos.PruebasTransporte.test_polimorfismo) ... ok
+test_registro_minibus (test_vehiculos.PruebasTransporte.test_registro_minibus) ... ok
+test_registro_radiotaxi (test_vehiculos.PruebasTransporte.test_registro_radiotaxi) ... ok
+test_registro_trufi (test_vehiculos.PruebasTransporte.test_registro_trufi) ... ok
+test_validacion_capacidad_negativa (test_vehiculos.PruebasTransporte.test_validacion_capacidad_negativa) ... ok
+test_validacion_costo_invalido (test_vehiculos.PruebasTransporte.test_validacion_costo_invalido) ... ok
+test_validacion_kilometraje_negativo (test_vehiculos.PruebasTransporte.test_validacion_kilometraje_negativo) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.001s
+
+OK
